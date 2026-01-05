@@ -1,2 +1,2 @@
-# GDScriptInterpreter
-Godot CLI Application inspired by Python interpreter
+# GDScriptREPL
+Godot CLI REPL inspired by Python's one
